@@ -1,0 +1,4 @@
+
+Eu ligaria o primeiro interruptor e o deixaria ligado para a lampada aquecer, depois de um tempo ligado eu desligaria e agora sim o segundo eu ligaria. Ao chegar na primeira sala, se eu encontra a lâmpada apagada e quente quer dizer que é o interruptor 1, caso ela esteja ligada essa é o interruptor 2, e se estiver apagada é fria é a terceira opção que não mexida ainda. Isso significa que na primeira vista eu descubro uma opção. Exemplo caso a lampada esteja apaguada e fria na primeira, na segunda visita eu vou ligar deixar ligado o segundo interruptor e vou para a segunda sala. Se a lâmpada estiver acesa, o segundo interruptor a controla, e o restante controla a primeira lâmpada.
+
+Desse jeito, você pode determinar qual interruptor controla cada lâmpada em apenas duas idas, utilizando o calor como indicador e a lógica de eliminação.
